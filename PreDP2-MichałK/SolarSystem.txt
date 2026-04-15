@@ -1,0 +1,6 @@
+Name, num of stars/sun, distance, list of planets
+Alpha Centauri, 3, 4.24, [b, d]
+Barnard's Star, 1, 5.96, [d, b, c, e]
+Wolf 359, 1, 7.86, [a]
+Lalande 21185, 1, 8.3, [a, b]
+Sirius, 2, 8.7, []

@@ -1,0 +1,6 @@
+eg, er, False, 0.34
+mango, food, True, 6.7
+router, cosmetic, True, 499.3
+cream, food, True, 55.0
+yogurt, food, True, 1.15
+shirt, clothing, False, 101.10
